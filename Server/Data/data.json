@@ -1,0 +1,134 @@
+{
+    "appetizers": [
+        {
+            "id": 0,
+            "name": "NUOC LOC",
+            "describe": "Thanh khiết",
+            "image": "nuocLoc.jpeg",
+            "price": 1
+        },
+        {
+            "id": 1,
+            "name": "NUOC NGOT",
+            "describe": "Pepsi, Coca Cola, Red Bull,...",
+            "image": "nuocNgot.jpeg",
+            "price": 2
+        },
+        {
+            "id": 2,
+            "name": "RUU VANG",
+            "describe": "Rựu được ủ từ năm 1987.",
+            "image": "ruuVang.png",
+            "price": 15
+        },
+        {
+            "id": 3,
+            "name": "KHO MUC",
+            "describe": "Phơi 5 nắng",
+            "image": "khoMuc.jpg",
+            "price": 4
+        },
+        {
+            "id": 4,
+            "name": "HAT DUA",
+            "describe": "Đỏ từng hạt",
+            "image": "hatDua.jpeg",
+            "price": 2
+        },
+        {
+            "id": 5,
+            "name": "HAT HUONG DUONG",
+            "describe": "Thơm ngon trên từng hạt",
+            "image": "hatHuongDuong.jpeg",
+            "price": 1
+        }
+    ],
+    "main_dishes": [
+        {
+            "id": 6,
+            "name": "BUN BO",
+            "describe": "Rất hấp dẫn",
+            "image": "bunBo.jpeg",
+            "price": 3
+        },
+        {
+            "id": 7,
+            "name": "CHA RAM",
+            "describe": "Rất giòn",
+            "image": "chaRam.jpeg",
+            "price": 3
+        },
+        {
+            "id": 8,
+            "name": "COM TAM",
+            "describe": "Đậm gia vị sài gòn",
+            "image": "comTam.png",
+            "price": 2
+        },
+        {
+            "id": 9,
+            "name": "GA BO XOI",
+            "describe": "giòn bên ngoài, mềm bên trong",
+            "image": "gaBoXoi.jpeg",
+            "price": 5
+        },
+        {
+            "id": 10,
+            "name": "HU TIEU",
+            "describe": "vang khắp miến nam",
+            "image": "huTieu.png",
+            "price": 0
+        },
+        {
+            "id": 11,
+            "name": "SUSHI",
+            "describe": "Đặc trưng hương vị của japan",
+            "image": "sushi.jpeg",
+            "price": 6
+        }
+    ],
+    "desserts": [
+        {
+            "id": 12,
+            "name": "BANH QUY",
+            "describe": "mon nay ngon",
+            "image": "banhquy.png",
+            "price": 1
+        },
+        {
+            "id": 13,
+            "name": "CAM",
+            "describe": "mon nay ngon",
+            "image": "cam.jpeg",
+            "price": 2
+        },
+        {
+            "id": 14,
+            "name": "DUA HAU",
+            "describe": "mon nay ngon",
+            "image": "duaHau.jpeg",
+            "price": 2
+        },
+        {
+            "id": 15,
+            "name": "NHAN",
+            "describe": "mon nay ngon",
+            "image": "nhan.jpeg",
+            "price": 1
+        },
+        {
+            "id": 16,
+            "name": "BANH PLAN",
+            "describe": "mon nay ngon",
+            "image": "plan.jpg",
+            "price": 0
+        },
+        {
+            "id": 17,
+            "name": "RAU CAU",
+            "describe": "mon nay ngon",
+            "image": "rauCau.jpeg",
+            "price": 1
+        }
+    ]
+}
